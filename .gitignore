@@ -5,3 +5,4 @@ node_modules
 .dev.vars*
 
 package-lock.json
+pnpm-lock.yaml
